@@ -1,7 +1,7 @@
 # Project: Profile Page  
 
 ## Description  
-This is a website created as part of a web development workshop. The page displays personal information, hobbies, and favorite series.  
+Este proyecto es un sitio web diseñado para mostrar información personal del usuario. Se ha desarrollado con HTML y CSS, gestionado con GitHub y desplegado en Netlify.
 
 Website link: [Pagina muy seria](https://paginamuyseria.netlify.app/)  
 
